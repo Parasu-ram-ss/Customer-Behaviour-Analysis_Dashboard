@@ -36,6 +36,36 @@ The Customer Behavior Analysis Dashboard was developed using Power BI to analyze
 <a href="https://github.com/Parasu-ram-ss/Customer-Behaviour-Analysis_Dashboard/blob/main/Customer_Behavior_Analysis_Project_Documentation.docx"> Project Overview </a>
 
 
+# Tools & Technologies Used
+
+• Power BI – Dashboard creation & visualization
+
+• Excel / CSV – Data source
+
+• MySQL – Data extraction (if applicable)
+
+• Power Query – Data cleaning & transformation
+
+• DAX – Calculated columns & measures
+
+
+
+
+
+
+# Data Cleaning & Transformation
+
+• Removed duplicates and null values
+
+• Standardized date formats
+
+• Created calculated columns (Revenue, Profit, Customer Segmentation)
+
+• Developed DAX measures for KPIs
+
+• Created relationships between tables (if multiple tables used)
+
+
 
 # Power Bi DashBoard
 
