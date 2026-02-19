@@ -33,4 +33,23 @@ Region / Location
 
 The Customer Behavior Analysis Dashboard was developed using Power BI to analyze customer purchasing patterns, sales performance, and behavioral trends. The objective is to provide actionable insights that help improve customer retention, revenue growth, and business decision-making
 
-<a href="https://github.com/Parasu-ram-ss/Pizza-Sales-Dashboard-/blob/main/Pizza_Sales_Dashboard_Project_Documentation.docx"> Project Overview </a>
+<a href="https://github.com/Parasu-ram-ss/Customer-Behaviour-Analysis_Dashboard/blob/main/Customer_Behavior_Analysis_Project_Documentation.docx"> Project Overview </a>
+
+
+
+# Power Bi DashBoard
+
+Revenue trend analysis (Monthly/Yearly)
+
+Customer segmentation visualization
+
+Top-performing products
+
+Region-wise sales performance
+
+Interactive filters & slicers
+
+Drill-down capability
+
+<a href="https://github.com/Parasu-ram-ss/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dashboard.pbix"> PowerBI File </a>
+
