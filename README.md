@@ -51,10 +51,25 @@ Interactive filters & slicers
 
 Drill-down capability
 
-<a href="https://github.com/Parasu-ram-ss/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dashboard.pbix"> PowerBI File </a>
+<a href="https://github.com/Parasu-ram-ss/Customer-Behaviour-Analysis_Dashboard/blob/main/Customer-Behavior.pbix"> PowerBI File </a>
 
 
 <img width="1429" height="803" alt="Screenshot 2026-02-15 122439" src="https://github.com/Parasu-ram-ss/Customer-Behaviour-Analysis_Dashboard/blob/main/Customer%20-%20Behavior.png" />
+
+
+# Business Impact
+
+• Improved targeted marketing strategy
+• Enhanced customer retention approach
+• Supported management decision-making
+• Increased focus on high-value customer segments
+
+
+
+# Conclusion
+
+The dashboard successfully transformed raw customer data into meaningful insights, enabling data-driven strategic planning and revenue optimization.
+
 
 
 
