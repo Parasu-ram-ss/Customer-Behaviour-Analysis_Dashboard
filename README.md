@@ -26,4 +26,11 @@ Payment Method
 Region / Location
 
 
-<a href="https://github.com/Parasu-ram-ss/Pizza-Sales-Dashboard-/blob/main/pizza_sales_excel_file.xlsx"> dataset </a>
+<a href="https://github.com/Parasu-ram-ss/Customer-Behaviour-Analysis_Dashboard/blob/main/customer_shopping_behavior.csv"> dataset </a>
+
+
+# Project Overview
+
+The Customer Behavior Analysis Dashboard was developed using Power BI to analyze customer purchasing patterns, sales performance, and behavioral trends. The objective is to provide actionable insights that help improve customer retention, revenue growth, and business decision-making
+
+<a href="https://github.com/Parasu-ram-ss/Pizza-Sales-Dashboard-/blob/main/Pizza_Sales_Dashboard_Project_Documentation.docx"> Project Overview </a>
